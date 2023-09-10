@@ -1,0 +1,135 @@
+.navImage {
+  width: 100vw;
+}
+.navName {
+  background-image: radial-gradient(
+    circle at 68.3% -18.3%,
+    #765f71 0,
+    #6b4f6a 12.5%,
+    #5c3f64 25%,
+    #4a2f5e 37.5%,
+    #321f59 50%,
+    #0a1254 62.5%,
+    #000550 75%,
+    #00004d 87.5%,
+    #00004a 100%
+  );
+  position: absolute;
+  top: 20vh;
+  left: 20vw;
+  bottom: 0;
+  right: 0;
+  width: 55vw;
+  height: 420px;
+  opacity: 0.9;
+  border-radius: 30px;
+  border: #8b0e8b 4px solid;
+}
+.navName1 {
+  font-size: 2em;
+  text-align: center;
+  position: absolute;
+  top: 20vh;
+  left: 20vw;
+  bottom: 0;
+  right: 0;
+  width: 55vw;
+  height: 360px;
+}
+.head-info-cont {
+  background-image: radial-gradient(
+    circle at 68.3% -18.3%,
+    #765f71 0,
+    #6b4f6a 12.5%,
+    #5c3f64 25%,
+    #4a2f5e 37.5%,
+    #321f59 50%,
+    #0a1254 62.5%,
+    #000550 75%,
+    #00004d 87.5%,
+    #00004a 100%
+  );
+  width: 80vw;
+  height: 40vh;
+  border-radius: 15px;
+  border: #8b0e8b 4px solid;
+  opacity: 0.9;
+  position: absolute;
+  top: 90vh;
+  left: 8vw;
+  bottom: 0;
+  right: 0;
+}
+.head-info {
+  width: 80vw;
+  height: 200px;
+  position: absolute;
+  top: 95vh;
+  left: 10vw;
+  bottom: 0;
+  right: 0;
+}
+.shadow {
+  width: 13vw;
+  height: 30vh;
+  border-radius: 15px;
+  position: absolute;
+  top: 0h;
+  left: 1vw;
+  bottom: 0;
+  right: 0;
+  background: linear-gradient(180deg, #ff84ac 0, #ff79b7 10%, #ff6ebf 20%, #ff65c3 30%, #ff5cc2 40%, #f253bc 50%, #cd4bb3 60%, #ac46ab 70%, #8e42a3 80%, #733f9d 90%, #593e98 100%);
+}
+.info-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 5vh 0;
+}
+.head-work {
+  width: 40vw;
+  height: auto;
+  background-image: radial-gradient(
+    circle at 68.3% -18.3%,
+    #765f71 0,
+    #6b4f6a 12.5%,
+    #5c3f64 25%,
+    #4a2f5e 37.5%,
+    #321f59 50%,
+    #0a1254 62.5%,
+    #000550 75%,
+    #00004d 87.5%,
+    #00004a 100%
+  );
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 5vh;
+  border-radius: 20px;
+  border: #8b0e8b 4px solid;
+}
+
+.head-skill {
+  width: 40vw;
+  height: auto;
+  background-image: radial-gradient(
+    circle at 68.3% -18.3%,
+    #765f71 0,
+    #6b4f6a 12.5%,
+    #5c3f64 25%,
+    #4a2f5e 37.5%,
+    #321f59 50%,
+    #0a1254 62.5%,
+    #000550 75%,
+    #00004d 87.5%,
+    #00004a 100%
+  );
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 5vh;
+  border-radius: 20px;
+  border: #8b0e8b 4px solid;
+}
+.lineProggres {
+  background-image: radial-gradient(circle at 50% -20.71%, #fe8f62 0, #ff8564 8.33%, #ff7967 16.67%, #ff6c6b 25%, #fd5e6e 33.33%, #f84e73 41.67%, #f23c78 50%, #ea287e 58.33%, #e10e86 66.67%, #d6008f 75%, #ca0098 83.33%, #bb00a3 91.67%, #aa00ae 100%);
+}

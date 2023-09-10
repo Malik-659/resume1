@@ -1,0 +1,37 @@
+.nav-container {
+    width: 100vw;
+    height: 70px;
+    background-image: radial-gradient(circle at 68.3% -18.3%, #765f71 0, #6b4f6a 12.5%, #5c3f64 25%, #4a2f5e 37.5%, #321f59 50%, #0a1254 62.5%, #000550 75%, #00004d 87.5%, #00004a 100%);
+    opacity: 0.8;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+}
+.navbar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 3;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-menu {
+    width: 30vw;
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 4vw;
+}
+.nav-menu button {
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 7vw;
+    height: 40px;
+    background-image: radial-gradient(circle at 50% -20.71%, #fe8f62 0, #ff8564 8.33%, #ff7967 16.67%, #ff6c6b 25%, #fd5e6e 33.33%, #f84e73 41.67%, #f23c78 50%, #ea287e 58.33%, #e10e86 66.67%, #d6008f 75%, #ca0098 83.33%, #bb00a3 91.67%, #aa00ae 100%);
+}
